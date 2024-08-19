@@ -1,4 +1,4 @@
-# AWS Web Application Project
+# AWS Web Application Hosting
 
 ## Objective
 
