@@ -2,7 +2,7 @@
 
 ## Objective
 
-The AWS Web Application project focused on hosting and managing a web application utilizing AWS. The project utilized AWS services such as S3, EC2, IAM, CloudWatch, and Backup to deploy a functional web application.
+The AWS Web Application project focused on hosting and managing a web application utilizing AWS. The project utilized AWS services S3, EC2, IAM, CloudWatch, and Backup to deploy a functional web application.
 This project enhanced understanding of cloud-based web application hosting and management, as well as understanding of core AWS services.
 
 ### Skills Learned
